@@ -150,7 +150,3 @@ The frontend talks to the backend through `/api` endpoints. The main flows inclu
 - The backend is configured with CORS for local development.
 - Complaint routing and analysis are designed around Bhopal municipal workflows.
 - If you change the backend host or port, update `VITE_API_BASE_URL` accordingly.
-
-## License
-
-No license has been declared yet. Add one before distributing or open-sourcing the project publicly.
